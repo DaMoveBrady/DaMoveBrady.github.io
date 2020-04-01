@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DaMoveBrady.github.io/static/css/main.acb2ade7.chunk.css",
+    "main.js": "/DaMoveBrady.github.io/static/js/main.f0f79a31.chunk.js",
+    "main.js.map": "/DaMoveBrady.github.io/static/js/main.f0f79a31.chunk.js.map",
+    "runtime-main.js": "/DaMoveBrady.github.io/static/js/runtime-main.59fe22b1.js",
+    "runtime-main.js.map": "/DaMoveBrady.github.io/static/js/runtime-main.59fe22b1.js.map",
+    "static/js/2.58617b89.chunk.js": "/DaMoveBrady.github.io/static/js/2.58617b89.chunk.js",
+    "static/js/2.58617b89.chunk.js.map": "/DaMoveBrady.github.io/static/js/2.58617b89.chunk.js.map",
+    "index.html": "/DaMoveBrady.github.io/index.html",
+    "precache-manifest.77c1c148540d8a67f8ebfcb408ecf887.js": "/DaMoveBrady.github.io/precache-manifest.77c1c148540d8a67f8ebfcb408ecf887.js",
+    "service-worker.js": "/DaMoveBrady.github.io/service-worker.js",
+    "static/css/main.acb2ade7.chunk.css.map": "/DaMoveBrady.github.io/static/css/main.acb2ade7.chunk.css.map",
+    "static/js/2.58617b89.chunk.js.LICENSE.txt": "/DaMoveBrady.github.io/static/js/2.58617b89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fe22b1.js",
+    "static/js/2.58617b89.chunk.js",
+    "static/css/main.acb2ade7.chunk.css",
+    "static/js/main.f0f79a31.chunk.js"
+  ]
+}
